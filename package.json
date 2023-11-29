@@ -50,5 +50,5 @@
   "devDependencies": {
     "@types/styled-components": "^5.1.32"
   },
-  "homepage": "https://lym-jgppa.github.io/todos.git"
+  "homepage": "https://lym-jgppa.github.io/todos"
 }
